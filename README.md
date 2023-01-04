@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://assegai.ml/" target="blank"><img src="https://assegai.ml/images/logo-small.png" width="492" alt="Assegai Logo"></a>
+    <a href="https://assegaiphp.com/" target="blank"><img src="https://assegaiphp.com/images/logos/logo-cropped.png" width="200" alt="Assegai Logo"></a>
 </div>
 
 <p style="text-align: center">A progressive <a href="https://php.net">PHP</a> framework for building effecient and scalable server-side applications.</p>
